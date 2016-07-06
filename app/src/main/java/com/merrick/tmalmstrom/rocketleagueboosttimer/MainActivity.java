@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         boost5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                buttonTimer(timer5,boost5);     q
+                buttonTimer(timer5,boost5);
             }
         });
         boost6.setOnClickListener(new View.OnClickListener() {
